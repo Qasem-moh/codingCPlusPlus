@@ -1,0 +1,23 @@
+# ninja log v5
+1	452	1666302478235360986	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	453	1666302478235360986	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	405	1666302527583431061	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+1	412	1666302565387485214	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+1	447	1666302634815585633	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	504	1666302634871585715	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	401	1666302798595826709	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	401	1666302798595826709	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+1	389	1666302822151861786	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+1	389	1666302822151861786	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	390	1666302837963885383	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	391	1666302837963885383	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	383	1666302879191947065	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	385	1666302879195947071	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+1	382	1666302888407960889	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	383	1666302888407960889	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	404	1666302959312067642	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+1	404	1666302959312067642	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+0	398	1666302980060099005	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+1	413	1666303063212225179	CMakeFiles/callFunction.dir/gotoAndJump.cpp.o	214698875f938c8b
+1	422	1666303063220225190	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
+0	374	1666303122636315773	CMakeFiles/callFunction.dir/main.cpp.o	adeab261b1bbcd7
