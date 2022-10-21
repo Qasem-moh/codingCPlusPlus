@@ -2,6 +2,8 @@
 #include "h.cpp"
 
 int main() {
-    p();
+//    p();
+    prime();
     return 0;
 }
+
