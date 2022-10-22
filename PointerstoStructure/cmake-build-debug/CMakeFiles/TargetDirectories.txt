@@ -1,0 +1,3 @@
+/home/qasem/Documents/codingCPlusPlus/PointerstoStructure/cmake-build-debug/CMakeFiles/PointerstoStructure.dir
+/home/qasem/Documents/codingCPlusPlus/PointerstoStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qasem/Documents/codingCPlusPlus/PointerstoStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
