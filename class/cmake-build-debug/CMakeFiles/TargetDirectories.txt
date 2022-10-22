@@ -1,0 +1,3 @@
+/home/qasem/Documents/codingCPlusPlus/class/cmake-build-debug/CMakeFiles/class.dir
+/home/qasem/Documents/codingCPlusPlus/class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qasem/Documents/codingCPlusPlus/class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
