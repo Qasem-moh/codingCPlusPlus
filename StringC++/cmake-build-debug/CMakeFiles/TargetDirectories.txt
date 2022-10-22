@@ -1,0 +1,3 @@
+/home/qasem/Documents/codingCPlusPlus/StringC++/cmake-build-debug/CMakeFiles/StringC__.dir
+/home/qasem/Documents/codingCPlusPlus/StringC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qasem/Documents/codingCPlusPlus/StringC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
