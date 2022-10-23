@@ -1,0 +1,3 @@
+/home/qasem/Documents/codingCPlusPlus/Constructor/cmake-build-debug/CMakeFiles/Constructor.dir
+/home/qasem/Documents/codingCPlusPlus/Constructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qasem/Documents/codingCPlusPlus/Constructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
